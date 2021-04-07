@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/iarna/demo-repo"
 }
